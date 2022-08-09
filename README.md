@@ -35,6 +35,6 @@ Team members:
 # Tasks
 
 
-- [ ] Contributed step 4-5 to the team github repo **due 21st Aug**
-- [ ] Final report available on repo **due 28th Aug**
-- [ ] Peer feedback provided as an issue on your assigned group's repo **due 4th Sep**
+- [ ] Contributed step 4-6 to the team github repo **due 19th Aug**
+- [ ] Final report available on repo **due 26th Aug**
+- [ ] Peer feedback provided as an issue on your assigned group's repo **due 3rd Sep**
